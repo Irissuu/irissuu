@@ -33,4 +33,4 @@
   </tr>
 </table>
 
-<[Snake animation](https://github.com/irissuu/blob/output/github-contribution-grid-snake.svg)
+
