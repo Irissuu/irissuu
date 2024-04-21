@@ -1,4 +1,4 @@
-### Olá! Eu sou a Iris
+### Hi! My name is Iris
 
 
 -  I'm studying systems analysis and development at FIAP
