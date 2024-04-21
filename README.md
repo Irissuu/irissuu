@@ -1,6 +1,6 @@
-### Hi! My name is Iris
+### Hi! I'm iris 
 
-
+#### a bit of me 
 -  I'm studying systems analysis and development at FIAP
 -  pt-br/en/zh-cn
 
