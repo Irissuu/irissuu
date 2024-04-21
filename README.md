@@ -11,7 +11,7 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=irissuu&theme=cutepinklight&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=irissuu&theme=cutepink&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
