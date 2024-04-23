@@ -3,7 +3,7 @@
 #### ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐  a bit of me 
 -  I'm studying systems analysis and development at FIAP
 -  pt-br / en / zh-cn
-irissuu
+
 <a href="https://github.com/irissuu/github-readme-stats">
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irissuu&layout=compact&bg_color=ff00&title_color=f7b2c0&hide_border=True&include_all_commits=true&count_private=true" width="40%" alt="Github Stats"/>
 </a>
