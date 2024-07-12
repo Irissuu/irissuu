@@ -2,7 +2,7 @@
 ##
 ####  𓂃 ࣪˖🦋⋆ a bit of me       
 -  I'm studying systems analysis and development at FIAP  
--  pt-br / en / zh-cn 🗺
+-  pt-br / en / zh-cn中文 🗺
 
   <div align="center">
  <img src="https://github.com/Irissuu/irissuu/assets/161527170/6dd79a08-fd8b-4ec9-98a7-a2161869f3cd"  width="35%" />
