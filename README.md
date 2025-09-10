@@ -4,9 +4,19 @@
 -  I'm studying systems analysis and development at FIAP  
 -  pt-br / en / zh-cn中文 🗺
 
+
+
   <div align="center">
  <img src="https://github.com/Irissuu/irissuu/assets/161527170/6dd79a08-fd8b-4ec9-98a7-a2161869f3cd"  width="35%" />
 </div>
+
+<br></br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/iristavares/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ## 
 
